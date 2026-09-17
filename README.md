@@ -19,7 +19,7 @@ Exploratory Data Analysis (EDA) on the Pima Indians Diabetes dataset to understa
 - [Conclusion](#-conclusion)
 - [Getting Started](#-getting-started)
 - [Author](#-author)
-- [License](#-license)
+
 
 ## 📌 Project Overview
 
@@ -57,8 +57,10 @@ The dataset (`diabetes.csv`) contains **768 observations** and **9 variables**:
 **Source:** [Pima Indians Diabetes Database (Kaggle)](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) — originally from the National Institute of Diabetes and Digestive and Kidney Diseases.
 
 **View the data:**
-- Open [`diabetes.csv`](./diabetes.csv) directly in this repository, or
+- Open [`diabetes.csv`](./diabetes.csv) directly in this repository,
+- 📓 View the notebook: [Diabetes Dataset — Exploratory Data Analysis.ipynb](./Diabetes%20Dataset%20—%20Exploratory%20Data%20Analysis.ipynb) or
 - Load it in Python:
+
 
 ```python
 import pandas as pd
@@ -160,9 +162,6 @@ jupyter notebook Diabetes_Dataset___Exploratory_Data_Analysis.ipynb
 
 Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](../../issues) or open a pull request.
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE) and is available for educational and research purposes.
 
 ## ⭐ Acknowledgements
 
